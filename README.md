@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00c6dc&lines=Heart+On+My Sleeve)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00c6dc&lines=Heart On My Sleeve)](https://git.io/typing-svg)
 <p align="center">
 <br><br>
 <a href="https://discord.com/users/348321064738095104" target="_blank">
